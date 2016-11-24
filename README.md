@@ -1,1 +1,2 @@
 # 2016-11-16-UX-und-Lean-usability-testing
+Trotz aufwendiger Qualitätssicherungsmaßnahmen scheitern Software-Projekte immer noch häufig in einem wichtigen Aspekt: Gute Bedienbarkeit. Dabei erlauben moderne Vorgehensweisen ein Testen der Usability mit sehr geringem Aufwand. Der ca. zweistündige "Goldschmiede"-Workshop mit Achim Belz gibt einen praktischen Einblick in schlanke Usability Tests, die jeder durchführen kann. Vorkenntnisse werden dabei keine benötigt.
